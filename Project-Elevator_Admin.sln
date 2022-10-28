@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Elevator_Admin", "Project-Elevator_Admin\Project-Elevator_Admin.csproj", "{609D249D-BAF7-4A5E-A215-6232045A19A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project-Elevator_Admin", "Project-Elevator_Admin\Project-Elevator_Admin.csproj", "{609D249D-BAF7-4A5E-A215-6232045A19A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Elevator_Admin.Tests", "Project-Elevator_Admin.Tests\Project-Elevator_Admin.Tests.csproj", "{7B513134-ED31-4D41-89B9-98107E6C267E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project-Elevator_Admin.Tests", "Project-Elevator_Admin.Tests\Project-Elevator_Admin.Tests.csproj", "{7B513134-ED31-4D41-89B9-98107E6C267E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
